@@ -1,7 +1,23 @@
 h1{
 	font-family: "Marker Felt", "Fantasy", fantasy;
-	color:#ffffff;
-	background-image:url("images/background.jpg");
+	color: white ;
 
+	
+}
+
+a{
+	font-family: "Marker Felt", "Fantasy", fantasy;
+	color: white ;	
+}
+
+body {
+    font-family: "Marker Felt", "Fantasy", fantasy;
+    color: white ;
+    background-image: url(images/background.jpg);
+}
+
+p{
+    font-family: "Marker Felt", "Fantasy", fantasy;
+    color: white ;	
 	
 }
